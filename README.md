@@ -36,3 +36,14 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <!--END_SECTION:footer-->
 
+### Descrição
+- Neste projeto, foi feito a componentização dos componentes _Content.tsx_ e o _SideBar.tsx_
+
+
+#### Para Rodar o projeto
+```bash
+yarn
+```
+```bash
+yarn dev
+```

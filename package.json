@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "engines": {
+    "node": "^16 || ^17 || ^18"
+  },
   "scripts": {
     "dev": "webpack serve",
     "server": "json-server server.json --port 3333",
